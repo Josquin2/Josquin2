@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Zac!
+
+## Front-End Developer
+
+### Skills:
+- **Programming Languages:** JavaScript, TypeScript, Dart, C, HTML5, CSS3
+- **Frameworks/Libraries:** Vue2, Vue3, React
+- **Mobile Development:** Flutter
+- **Tools:** NPM, Webpack, Git
+
+### Connect with Me:
+- **Email:** Josquinwork@mail.ru
 
 <!--
 **Josquin2/Josquin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

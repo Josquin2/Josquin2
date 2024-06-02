@@ -29,7 +29,7 @@
 
 <br>
 
-### Connect with Me:
+### Contact with Me:
 - **Email:** Josquinwork@mail.ru
 
 <!--

@@ -18,9 +18,9 @@
 
 
 ### 📚 Frameworks/Libraries:
+![Nuxt](https://img.shields.io/badge/nuxt-%2300C58E.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🔧 Tools
 ![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
